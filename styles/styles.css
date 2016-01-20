@@ -1,13 +1,11 @@
+body {
+    background-color: rgb(227,58,202);
+
+}
 h1{
     font-family: 'times new roman';
-    color: blue;
-    
-    }
-a{
-    color: black;
-    background: gray;
-}
-body{
-    background: yellow;
-    
+    font-style: italic;
+    text-align: center;
+    font-weight: normal
+    ;
 }
